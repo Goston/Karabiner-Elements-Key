@@ -7,7 +7,7 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "comma",
+            "key_code": "k",
             "modifiers": {
               "mandatory": [
                 "right_gui"
@@ -26,7 +26,7 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "slash",
+            "key_code": "semicolon",
             "modifiers": {
               "mandatory": [
                 "right_gui"
@@ -45,7 +45,7 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "l",
+            "key_code": "o",
             "modifiers": {
               "mandatory": [
                 "right_gui"
@@ -64,7 +64,7 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "period",
+            "key_code": "l",
             "modifiers": {
               "mandatory": [
                 "right_gui"
@@ -83,7 +83,7 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "k",
+            "key_code": "i",
             "modifiers": {
               "mandatory": [
                 "right_gui"
@@ -102,7 +102,7 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "semicolon",
+            "key_code": "p",
             "modifiers": {
               "mandatory": [
                 "right_gui"

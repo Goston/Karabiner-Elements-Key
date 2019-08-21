@@ -1,6 +1,6 @@
 Karabiner-Elements 自定義按鍵對應
 
-My_Key.json`
+`My_Key.json`
 
 - `Right-Command` + `,` 對應成 ←
 - `Right-Command` + `.` 對應成 ↓
